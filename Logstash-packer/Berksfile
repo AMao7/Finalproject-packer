@@ -1,0 +1,2 @@
+source 'http://supermarket.chef.io'
+cookbook 'logstash_cookbook', git: 'https://github.com/chpoullet/eng53-logstash-cookbook.git'

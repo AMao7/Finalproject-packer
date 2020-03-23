@@ -1,0 +1,2 @@
+source 'http://supermarket.chef.io'
+cookbook 'elasticsearch_cookbook', git: 'https://github.com/chpoullet/eng53-elasticsearch-cookbook.git'

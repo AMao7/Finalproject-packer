@@ -1,0 +1,3 @@
+source 'http://supermarket.chef.io'
+cookbook 'beats_cookbook', git: 'https://github.com/chpoullet/eng53-beats-cookbook.git'
+cookbook 'kibana_cookbook', git: 'https://github.com/chpoullet/eng53-kibana-cookbook.git'
