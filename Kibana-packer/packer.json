@@ -7,6 +7,8 @@
 "builders": [{
 "type": "amazon-ebs",
 "subnet_id": "subnet-0e9b6138ff1ce18f2",
+"ssh_keypair_name": "Abdimalik-mao-eng53-ire",
+"ssh_private_key_file": "C:/private-key/Abdimalik-mao-eng53-ire.pem",
 "associate_public_ip_address": "true",
 "security_group_id": "sg-094a2e79394ad44d9",
 
